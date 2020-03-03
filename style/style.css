@@ -1,0 +1,31 @@
+.top{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 11pt;
+}
+
+.topdown{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 11pt;
+}
+
+.paragraph{
+    font-weight: bold;
+}
+
+.text{
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 11pt;
+}
+
+.table{
+    width: 90%
+}
+
+.relative{
+    text-align: justify;
+}
